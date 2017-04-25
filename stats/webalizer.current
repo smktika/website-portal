@@ -1,0 +1,194 @@
+# Webalizer V2.23-08 Incremental Data - 04/24/2017 23:40:47
+2017 4 24 23 40 47
+1317 678 2 13 4 17 32084016 81 20 0 0 0
+2 57 178 23 24
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+211 130 6631348 2 27 5 0 0
+1106 548 25452668 2 54 15 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+58 39 1986382 3 0 0
+0 0 0 0 0 0
+7 7 216687 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+94 65 3309494 5 0 0
+26 13 664638 1 0 0
+50 39 1983261 3 0 0
+103 57 2746706 5 0 0
+36 18 757972 2 0 0
+83 39 1995816 3 0 0
+99 53 2658282 5 0 0
+178 77 3129369 9 0 0
+10 0 3804 0 0 0
+22 5 96904 1 0 0
+0 0 0 0 0 0
+41 18 758878 2 0 0
+46 19 763458 3 0 0
+109 44 2097144 21 0 0
+74 53 2649868 5 0 0
+78 37 1582179 4 0 0
+128 72 3822803 5 0 0
+75 23 860371 3 0 0
+0
+0
+0
+678
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+110
+0
+0
+0
+0
+0
+32
+497
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/img/icons/svg/Drive.png
+1 60 0 820317 0 0 0 0
+/img/logo_smk.png
+1 61 0 3020225 0 0 0 0
+/img/icons/svg/Downloads.png
+1 61 0 2654612 0 0 0 0
+/img/icons/svg/ppdb.png
+1 59 0 394471 0 0 0 0
+/img/icons/svg/tiOS.png
+1 59 0 13604901 0 0 0 0
+/dist/css/vendor/bootstrap.min.css
+0 61 0 1123623 0 0 0 0
+/img/icons/svg/NewStand.png
+1 61 0 741384 0 0 0 0
+/dist/js/jquery.js
+0 60 0 2011026 0 0 0 0
+/
+0 64 0 129015 19 18 0 0
+/dist/css/flat-ui.css
+0 61 0 1737528 0 0 0 0
+/img/icons/svg/Email.png
+1 61 0 1476933 0 0 0 0
+/dist/js/bootstrap.min.js
+0 60 0 607446 0 0 0 0
+/img/icons/svg/Browser.png
+1 60 0 3558803 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+10.11.12.1
+0 1211 634 29985472 16 1493077246 0 0
+/
+10.123.123.104
+0 106 44 2098544 4 1493057795 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+10.11.12.1
+0 1069 530 24693269 13 1493077246 0 0
+/
+10.123.123.104
+0 37 18 759399 2 1493057795 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://hostpot3.smktika.sch.id/login
+0 25
+- (Direct Request)
+0 56
+http://portal.smktika.id/
+0 1047
+http://portal.smktika.id/dist/css/flat-ui.css
+0 189
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; U; Android 4.2.2; id-id; Lenovo A369i Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mob
+0 35
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 41
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 72
+Mozilla/5.0 (Linux; U; Android 4.4.4; id; SM-J110G Build/KTU84P) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile 
+0 20
+Mozilla/5.0 (Linux; U; Android 4.0.4; id; GT-S7562 Build/IMM76I) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile 
+0 26
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 93
+Mozilla/5.0 (Linux; U; Android 4.2.2; id-id; ADVAN S3A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 65
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:51.0) Gecko/20100101 Firefox/51.0
+0 36
+Mozilla/5.0 (Linux; Android 5.1.1; Andromax C46B2H Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 68
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Mobile/14E304
+0 33
+Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Sa
+0 106
+Mozilla/5.0 (Linux; Android 4.4.2; AT1D Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobi
+0 55
+Mozilla/5.0 (Linux; U; Android 4.4.2; id-id; SM-G313HZ Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 92
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:53.0) Gecko/20100101 Firefox/53.0
+0 132
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36
+0 106
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0
+0 259
+Mozilla/5.0 (Linux; U; Android 5.1; en-US; vivo Y21 Build/LMY47I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowse
+0 78
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
